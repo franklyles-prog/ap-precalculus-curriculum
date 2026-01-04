@@ -1,0 +1,199 @@
+# Educational Curriculum Repository - .gitignore
+# Use this file in all 4 course repositories
+
+# ============================================
+# SECURITY - API Keys and Secrets
+# ============================================
+.env
+.env.local
+.env.*.local
+*.key
+*_api_key*
+credentials.json
+secrets.json
+
+# ============================================
+# PRIVACY - Student Data (NEVER COMMIT)
+# ============================================
+*_grades.csv
+*_graded.*
+student_data/
+graded_work/
+**/graded/
+student_names.txt
+roster.csv
+
+# ============================================
+# macOS System Files
+# ============================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# ============================================
+# Windows System Files
+# ============================================
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.lnk
+Desktop.ini
+$RECYCLE.BIN/
+
+# ============================================
+# Microsoft Office Temporary Files
+# ============================================
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.tmp
+*.temp
+
+# ============================================
+# Node.js / npm (for presentation tools)
+# ============================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.eslintcache
+
+# ============================================
+# Python (for scripts and MCP servers)
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+
+# ============================================
+# LaTeX (if generating PDFs from LaTeX)
+# ============================================
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*.synctex.gz
+
+# ============================================
+# Logs and Databases
+# ============================================
+*.log
+*.sql
+*.sqlite
+*.db
+
+# ============================================
+# Backups and Archives
+# ============================================
+*.bak
+*.backup
+*~
+*.swp
+*.swo
+*_backup/
+*_old/
+
+# ============================================
+# Personal Notes (keep private)
+# ============================================
+*_personal.md
+*_private.md
+notes_personal/
+my_notes/
+
+# ============================================
+# Large Media Files (use Git LFS if needed)
+# ============================================
+# Uncomment if videos are too large
+# *.mp4
+# *.mov
+# *.avi
+
+# ============================================
+# Compiled / Generated Files
+# ============================================
+*.class
+*.dll
+*.exe
+*.o
+*.pyc
+
+# ============================================
+# IDEs and Editors
+# ============================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+
+# ============================================
+# MCP Server Files (if included)
+# ============================================
+mcp-servers/*/node_modules/
+mcp-servers/*/.venv/
+mcp-servers/*/__pycache__/
+.mcp.json
+
+# ============================================
+# Keep These Folders But Ignore Contents
+# ============================================
+# Use these patterns if you want folder structure
+# but not the files inside
+
+# Example: Keep graded_work/ folder but ignore all files
+# graded_work/*
+# !graded_work/.gitkeep
+
+# ============================================
+# ALLOWED - What SHOULD be committed
+# ============================================
+# ✅ .md files (lesson plans, documentation)
+# ✅ .docx files (assignments, worksheets)
+# ✅ .pptx files (presentations)
+# ✅ .pdf files (handouts, guides)
+# ✅ curriculum maps and standards
+# ✅ resource lists
+# ✅ blank templates

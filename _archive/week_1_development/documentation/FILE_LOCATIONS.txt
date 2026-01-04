@@ -1,0 +1,154 @@
+================================================================================
+WEEK 1 DELIVERABLE FILES - ABSOLUTE PATHS
+================================================================================
+
+All files are located in:
+/Users/franklyles/Documents/Claude Stuff/Disciplines/precal/week_1/
+
+================================================================================
+PRIMARY DELIVERABLES
+================================================================================
+
+1. OVERVIEW & START HERE:
+   /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/week_1/README.md
+
+2. HOW TO CREATE PRESENTATION SLIDES:
+   /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/week_1/IMPLEMENTATION_GUIDE.md
+
+3. DETAILED SLIDE CONTENT (64 slides):
+   /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/week_1/Week_1_Slide_Guide_Complete.md
+
+4. CLASSWORK PROBLEMS (65 total):
+   /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/week_1/Week_1_PreCal_Classwork.docx
+
+5. CLASSWORK ANSWER KEY:
+   /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/week_1/Week_1_PreCal_Key_Classwork.docx
+
+6. HOMEWORK PROBLEMS (40 total):
+   /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/week_1/Week_1_PreCal_Homework.docx
+
+7. HOMEWORK ANSWER KEY:
+   /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/week_1/Week_1_PreCal_Key_Homework.docx
+
+8. QUICK REFERENCE SUMMARY:
+   /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/week_1/DELIVERABLES_SUMMARY.txt
+
+================================================================================
+RELATED REFERENCE DOCUMENTS
+================================================================================
+
+Original Lesson Plan:
+   /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/lesson_plans/Week_1_PreCal.docx
+
+Arkansas Standards:
+   /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/standards/AR_Secondary_Math_Standards_2023_LS 2.docx
+
+Curriculum Overview:
+   /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/AP_Precalculus_Semester_Curriculum_Spring2026.md
+
+Presenter-Creator Specifications:
+   /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/_agents/presenter-creator-spec.md
+
+Master Coordination Template:
+   /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/_templates/Master_Coordination_Template.md
+
+Calendar:
+   /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/Spring_2026_AP_Precalculus_Calendar.md
+
+================================================================================
+WHEN TO CREATE PRESENTATION SLIDES
+================================================================================
+
+PowerPoint File (TO BE CREATED):
+   /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/week_1/Week_1_PreCal_Slides.pptx
+
+INSTRUCTIONS: Follow the detailed steps in IMPLEMENTATION_GUIDE.md
+
+ESTIMATED TIME: 2-3 hours
+
+COLOR CODES TO USE:
+   Primary Blue: #4472C4
+   Orange Accent: #ED7D31
+   Green Correct: #70AD47
+   Gray Background: #F5F5F5
+   Dark Text: #2C2C2C
+
+FONT: Arial (headers and body text)
+
+FORMAT: 16:9 widescreen
+
+TOTAL SLIDES: 64 (32 per session)
+
+================================================================================
+QUICK ACTIONS
+================================================================================
+
+TO GET STARTED:
+1. Open: /Users/franklyles/Documents/Claude Stuff/Disciplines/precal/week_1/README.md
+2. Read implementation guide: IMPLEMENTATION_GUIDE.md
+3. Create slides: Week_1_Slide_Guide_Complete.md
+4. Print: Week_1_PreCal_Classwork.docx
+5. Review answers: Week_1_PreCal_Key_Classwork.docx
+
+FOR HOMEWORK:
+- Assign: Week_1_PreCal_Homework.docx (due Monday, Jan 13)
+- Grade with: Week_1_PreCal_Key_Homework.docx
+
+FOR QUICK REFERENCE:
+- Summary: DELIVERABLES_SUMMARY.txt
+- This file: FILE_LOCATIONS.txt
+
+================================================================================
+FILE STATISTICS
+================================================================================
+
+Total Primary Files: 8
+Total Documentation: 4 markdown + 1 text files
+Total Practice/Homework: 4 Word documents
+
+Total Size: ~250 KB of materials
+
+All files ready to use immediately (except PowerPoint slides).
+
+================================================================================
+CHECKSUMS & VERIFICATION
+================================================================================
+
+All files created: January 2, 2026
+All files verified: January 2, 2026
+Standards compliance: Arkansas PC.TR.1-4, AP Precalculus Framework
+Student profile: ACT Math 15-22
+Teacher: Lyles
+
+================================================================================
+SUPPORT
+================================================================================
+
+If you have questions about:
+
+OVERVIEW & ASSESSMENT: See README.md
+CREATING SLIDES: See IMPLEMENTATION_GUIDE.md
+SLIDE CONTENT: See Week_1_Slide_Guide_Complete.md
+PROBLEMS & SOLUTIONS: See Classwork and Homework files
+QUICK REFERENCE: See DELIVERABLES_SUMMARY.txt
+FILE LOCATIONS: See this file (FILE_LOCATIONS.txt)
+
+================================================================================
+IMPORTANT NOTES
+================================================================================
+
+1. All Word documents are editable - customize as needed
+2. All markdown files are reference materials
+3. Color codes are designed per presenter-creator-spec
+4. All problems are original and aligned to standards
+5. Answer keys show all work and common errors
+6. Pacing guide is realistic for 90-minute block schedule
+7. Differentiation strategies are embedded throughout
+8. Materials are designed for ACT 15-22 student level
+
+================================================================================
+CREATED FOR: Teacher Lyles
+COURSE: AP Precalculus (Spring 2026)
+WEEK: Week 1 (January 7 & 9, 2026)
+STANDARDS: PC.TR.1, PC.TR.2, PC.TR.3, PC.TR.4
+================================================================================
